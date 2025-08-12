@@ -1,0 +1,96 @@
+#name{
+    background-color: rgb(23, 150, 196);
+    color: rgb(7, 14, 89);
+    font-size: 40px;
+    border-radius: 650px;
+}
+.a{
+    background-color: rgb(246, 191, 160);
+    color: rgb(245, 248, 246);
+    font-style: italic;
+    padding-bottom: 0.5%;
+}
+#mm{
+    margin-left: 4%;
+    margin-top: 0%;
+    position: absolute;
+}
+#about{
+font-size:20px ;
+margin-left: 20%;
+}
+.b{
+    background-color: rgb(246, 191, 160);
+    color: rgb(241, 248, 242);
+    font-style: italic;
+    padding-bottom: 0.2%;
+}
+#nn{
+    margin-left: 4%;
+    margin-top: 0%;
+    position: absolute;
+}
+#aim{
+font-size:20px ;
+margin-left: 20%;
+}
+.c{
+    background-color: rgb(246, 191, 160);
+    color: rgb(241, 248, 242);
+    font-style: italic;
+    padding-bottom: 5%;
+}
+#oo{
+    margin-left: 4%;
+    margin-top: 0%;
+    position: absolute;
+}
+#hobby{
+font-size:20px ;
+margin-left: 20%;
+}
+.d{
+    background-color: rgb(246, 191, 160);
+    color: rgb(241, 248, 242);
+    font-style: italic;
+    padding-bottom: 5%;
+}
+#pp{
+    margin-left: 4%;
+    margin-top: 0%;
+    position: absolute;
+}
+#god{
+font-size:20px ;
+margin-left: 20%;
+}
+.e{
+    background-color: rgb(246, 191, 160);
+    color: rgb(241, 248, 242);
+    font-style: italic;
+    padding-bottom: 4%;
+}
+#qq{
+    margin-left: 4%;
+    margin-top: 0%;
+    position: absolute;
+}
+#place{
+font-size:20px ;
+margin-left: 20%;
+}
+.f{
+    background-color: rgb(246, 191, 160);
+    color: rgb(241, 248, 242);
+    font-style: italic;
+    padding-bottom: 5%;
+}
+#rr{
+    margin-left: 4%;
+    margin-top: 0%;
+    position: absolute;
+}
+#food{
+font-size:20px ;
+margin-left: 20%;
+}
